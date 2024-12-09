@@ -1,0 +1,29 @@
+/* Imports */
+
+@import url(css/main.css);
+@import url(css/header.css);
+@import url(css/result.css);
+/* Font */
+
+@font-face {
+    font-family: "PokemonS";
+    src: url("media/PokemonSolid.ttf") format("truetype");
+}
+
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+

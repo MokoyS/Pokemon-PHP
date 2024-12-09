@@ -1,0 +1,13 @@
+header h1 {
+    font-family: "PokemonS";
+    font-size: 3em;
+    color: #FFCB05;
+    text-align: center;
+    margin-top: 10px;
+    text-shadow: 
+        2px 2px 0 #3466AF,  
+        -2px 2px 0 #3466AF, 
+        2px -2px 0 #3466AF, 
+        -2px -2px 0 #3466AF, 
+        4px 4px 0 #000;
+}
